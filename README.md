@@ -24,6 +24,11 @@
   - `System.Drawing`
   - `System.IO`
 
+
+
+<img width="473" height="188" alt="螢幕擷取畫面 2026-05-06 230158" src="https://github.com/user-attachments/assets/f85fb3fd-9b30-406f-904c-ab4c10dd3ad6" />
+
+
 ## 專案結構
 
 ```text
